@@ -4,13 +4,13 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as a Process Associate at <a href="https://www.genpact.com/" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/9714-genpact.webp" alt="bibhassaha" height="20" width="60" /></a>
+- 🔭 I’m currently working as a Technical Process Associate at <a href="https://www.genpact.com/" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/9714-genpact.webp" alt="bibhassaha" height="20" width="60" /></a>
 
 - 🌱 I’m currently learning **Data Analysis and Web Designing**
 
 - 👯 I’m looking to collaborate on **on all topics related to Data Analytics, and Web Designing**
 
-- 🌱 I’m currently mastering **Python, Excel, Tableau, MySQL, Advanced Excel , HTML, CSS and Javascript**
+- 🌱 I’m currently mastering **Java, Python, Excel, Tableau, Power BI, MySQL, Advanced Excel, HTML, CSS and Javascript**
 
 - 📫 You can reach me on my email id **bibhassaha22@gmail.com**
 
